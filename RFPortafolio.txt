@@ -1,0 +1,573 @@
+Portafolio de Entrega del Proyecto para la empresa Ricos Fritos.
+Agradecimientos 
+
+
+
+Índice
+Portafolio de Entrega del Proyecto para la empresa Ricos Fritos.	1
+Agradecimientos	2
+Introducción	4
+Justificación	5
+Antecedentes Generales	6
+Antecedentes específicos	7
+Historia de la empresa	9
+Diagrama general de la empresa.	10
+Detección de áreas de oportunidad	12
+Bibliografía	29
+
+
+
+Introducción 
+
+Dentro de la industria de las botanas los cacahuates se han posicionado como un producto de gran consumo popular. Su demanda se debe principalmente a su fácil acceso, es decir, se puede encontrar en diversos puntos de venta, su precio es bajo y satisface de manera inmediata una necesidad o antojo.
+Cacahuatera RICOS FRITOS. Está ubicada en la colonia San Cristóbal Tulcingo en la capital poblana actualmente tiene un camión de 20 toneladas y varias camionetas para repartir el producto, a lo largo de 50 años y se ha extendido por varios estados de la república mexicana como lo son el estado  de Veracruz, Acapulco y todo Puebla ofreciendo cacahuate japonés y enchilado. Cacahuatera Ricos fritos  cuenta con 6 operadores que desempeñan las tareas para la elaboración de los distintos tipos de cacahuates y próximamente cacahuates tipo hut-nuts. Inspiración de superación humana. Estas fueron algunas palabras del Señor Alfredo Rojas, propietario de la empresa Ricos Fritos, compartió en una entrevista realizada 
+Actualmente la empresa compite con empresas de gran talla como Barcel o Sabritas, está en un auge y el dueño espera que siga creciendo.
+ Cacahuatera ricos fritos fue pionera en la producción en serie dentro del estado de puebla La empresa cuenta actualmente con maquinaria usada para el pelado y limpieza de los cacahuates, maquinaria especializada para el tostado y crear los cacahuates japoneses, y cuenta también con maquinaria para el empaquetado de su producto. Todo este proceso de producción en masa es realizado en una sola planta.
+
+Justificación 
+
+La empresa RICOS FRITOS  elabora una amplia gama de productos de cacahuate, dentro de los que se encuentran: cacahuate salado, cacahuate enchilado y cacahuate estilo Japonés. En diversos tamaños y presentaciones. Perteneciendo al sector secundario de la industria de manufactura, actualmente distribuye a dulcerías y grandes abarrotes de la república mexicana. Nos ha brindado la oportunidad de hacer un estudio de consultoría, con el objetivo de encontrar áreas de oportunidad, prevenir o disminuir riesgos y poder mejorar sus procesos, estableciendo el análisis en la teoría general de sistemas.
+
+◦	Descripción
+Actualmente la RICOS FRITOS por el volumen de su producción entra en la clasificación de PYME contando con métodos poco optimizados principalmente en la administración de sus diversas áreas como finanzas, ventas, marketing, contabilidad, dirección, logística, compras adquiriendo varios riesgos potenciales que podrían ser fácilmente optimizados. 
+
+◦	Objetivo General
+Para ofrecer un producto de buena calidad en el mercado, obteniendo mayores ganancias, con el menor coste requerido. Se propone implementar la consecuente planeación, basado en las áreas de oportunidad encontradas después de varios estudios, análisis, y minuciosas observaciones que se hallaron. Proponemos una vigorosa descripción de las áreas de oportunidad y su respectiva descripción del proyecto, para su pronta implementación.
+
+◦	Objetivo Específico 
+Para mejorar la administración interna de los procesos en la fabricación de los diversos productos, mejorando la calidad y adquiriendo nuevas tecnologías en la gestión, optimización, distribución, dirección de la empresa. Como contar con apoyo de la banca en las transacciones de la empresa, contar con una señalética interna en la empresa, una correcta logística en la entrega de sus productos, publicidad y ventas auxiliado del uso de medios digitales, protocolos en la comunicación con sus empleados, entre otras.
+
+
+
+Antecedentes Generales
+
+Teoría postmoderna de los sistemas: una fase en la búsqueda por una teoría general de sistemas.
+
+Antecedentes específicos 
+
+Propietario de la Empresa: Alfredo Rojas Rodríguez
+Razón Social: Ricos Fritos.
+Ubicación: Av. Juárez #57 Colonia San Cristóbal. Puebla, Pue.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La empresa pertenece al sector secundario, que se caracteriza por  el uso predominante de maquinaria y de procesos cada vez más automatizados para transformar las materias primas que se obtienen del sector primario (INEGI, 2016). De acuerdo a lo que producen, sus grandes divisiones son construcción e industria manufacturera. La empresa Ricos Fritos se encuentra en la industria manufacturera, que es la actividad económica que transforma una gran diversidad de materias primas en diferentes artículos para el consumo (INEGI, 2016).
+
+La industria manufacturera se divide en 10 tipos basándose en la actividad que realiza. Se enlista de la siguiente forma:
+•	Productos alimenticios 
+•	Maquinaria y equipo 
+•	Derivados del petróleo y del carbón, industrias químicas del plástico y del hule.
+•	Industrias métales.
+•	Productos a base de minerales no metálicos.
+•	Industrias textiles, prendas de vestir e industrias del cuerpo.
+•	Papel, impresión e industrias relacionadas.
+•	Otras industrias manufactureras.
+•	Industria de la madera
+•	Fabricación de mueble y productos relacionados.
+
+Dentro de esta clasificación se encuentra la industria alimentaria Mexicana que tiene subsistemas como alimentos procesados, frutas y verduras, etc. Y  es el supra sistema de nuestro sistema general, ya que la empresa Ricos Fritos elabora botanas, en específico cacahuate estilo japonés y enchilado.
+Y dentro de esta clasificación se encuentra la empresa Ricos Fritos, que se ubica en productos alimenticios en la elaboración de botanas, en específico cacahuate estilo japonés y enchilado.
+La empresa cuenta con 10 empleados; considerándose un microempresa. Según el portal del empleo; se considera microempresa a la organización de negocios que cuenta con 1  a 10 trabajadores en su lista de integrantes, independientemente del giro de la empresa (Portal del empleo, 2016).
+
+La empresa Ricos Fritos se encarga de abastecer principalmente a dulcerías dentro de la ciudad de Puebla, Guerrero y Veracruz. Siendo estos sus principales clientes, por otra parte, también entrega mercancía en una menor cantidad en centro botaneros de la región.
+
+
+
+Historia de la empresa
+La madre y la familia del señor Alfredo Rojas eran muy pobres, así que para poder sobrevivir tuvo que vender dulces, combustible, pasteles y paletas además de que tiraba la basura de las demás personas, por el mismo motivo de la pobreza de su familia obtuvo una beca, por parte del Gral. Rafael Ávila Camacho, para estudiar la primaria en el hospicio, establecimiento benéfico que se dedica a recoger, mantener y educar a niños huérfanos o cuyos padres son pobres y no pueden hacerse a cargo de ellos, (freedictionary, 2016), donde aprendió hábitos de limpieza y entrenamiento militar. Él Sr. Alfredo dice <<Cuando hay hambre, las letras no entran>> y así cuando terminó la primaria y recibió su certificado, él lo rompió y le preguntaron por qué lo había hecho y él les contestó que no quería seguir estudiando porque él quería ganar dinero.
+Empezó a elaborar cacahuates en la estufa de su casa y salió a vender tienda por tienda y en las cantinas, donde se daban como botanas, llegaba a vender hasta 10 kilogramos de su producto, lo repartía a pie, después compró una bicicleta y contrato a una persona para que repartiera a pie, después de esto compró una motocicleta, actualmente tiene un camión de 20 toneladas y varias camionetas para repartir el producto a lo largo de 50 años y se ha extendido hasta los estados de Veracruz, Acapulco y todo Puebla ofreciendo cacahuate japonés, enchilado, garbanzo, garapiñado y semillas .
+En algunas ocasiones ha tenido quiebres, ya sea por robos o por contratos incumplidos, pero esto no lo detuvo, volvió a comenzar desde abajo. Trabaja bajo la teoría del chino, 7 años de trabajo y 1 de descanso,  esta mentalidad le ha llevado a tener una producción de 20 a 30 toneladas de cacahuate actualmente, gracias a su esfuerzo constante; además de que se ayudó diseñando sus propias máquinas para pelar el cacahuate y fue pionero en Puebla en la automatización. Importa el cacahuate de EUA, Nicaragua y Oaxaca, produciendo cacahuate bajo su propia receta, dándole su toque personal, pero no está cerrado a revelar su secreto y subirla a internet, porque le gusta compartir todo y está entusiasmado de trabajar con estudiantes porque quiere enseñarles todo lo que sabe y así puedan superarlo en la vida. 
+Hace poco tiempo se encontró con uno de sus amigos del hospicio, que se convirtió en psicólogo, y basó uno de sus trabajos en su vida, como inspiración de superación humana. Estas fueron algunas palabras del Señor Alfredo Rojas, propietario de la empresa Ricos Fritos, que compartió en una entrevista realizada el sábado 16 de enero del 2016.
+
+Diagrama general de la empresa.
+El diagrama permite visualizar y comprender a la empresa como un sistema, donde existen elementos diversos que interactúan entre sí para llegar a un fin común. Los elementos que componen al sistema son:
+Entrada: son los elementos que la empresa recibe para su funcionamiento, que se dividen en Recursos Humanos que es el conjunto de empleados que colaboran para la empresa en diversas áreas, Infraestructura que son las instalaciones y maquinaria con que cuenta la empresa, Servicios que son actividades diversas que la industria requiere como son electricidad y agua, finalmente Materia Prima que son las materias que se requieren para la elaboración del producto.
+Proceso: que consta de todo el proceso productivo detallado del producto hasta su obtención final.
+Salida: es el producto final elaborado, con el que se comerciara.
+Retroalimentación: es el indicador que nos permite conocer si el producto final cumple con las expectativas al ser preferido por el consumidor o si requiere mejoras para su venta.
+Información controlada: es toda la información que la empresa conoce íntegramente y puede modificar, que abarca el proceso, producto y clientes. Esta información es vital para su funcionamiento, existencia y permanencia en el mercado.
+Información no controlada: es toda la información que la empresa no tiene capacidad de intervenir y que ocurre en el medio externo a la empresa.
+Cliente: donde se tiene perfectamente definido quien es el cliente y cuáles son sus necesidades requeridas que la empresa le proveerá. Que en este caso, como ya se ha mencionado, son dulcerías que consumen por mayoreo.
+Medio interno: es el medio donde se realiza toda la producción y realización del producto el cual es la empresa.
+Medio externo: es el medio donde existe la empresa, donde se realiza el comercio del producto.
+Suprasistema: Es el medio externo que existe fuera del sistema de la empresa y que a su vez pertenece a un sistema más grande
+
+Con todos los elementos ya identificados con la información presentada en esta investigación, se realizó el Diagrama General de la Empresa “Ricos Fritos” de sus dos productos: cacahuate japonés y cacahuate enchilado.
+
+
+
+Diagrama General de la Empresa “Ricos Fritos”                                           Cacahuate estilo japonés
+
+
+
+Proceso productivo cacahuate estilo japonés
+
+1.	Se coloca el cacahuate, jarabe de azúcar y harina en un bowl, que es parte de la maquinaria para su elaboración, donde los ingredientes se van girando, agregando cada 3 minutos más harina y jarabe de azúcar (las cantidades son información privada) este proceso se repite por aproximadamente 30 minutos para lograr empanizar el cacahuate
+2.	La mezcla se despega en el bowl constantemente para evitar que los cacahuates se peguen entre si
+3.	El cacahuate, que cuenta ahora ya con su cobertura, se deja enfriar dentro del bowl
+4.	Los cacahuates son transportados mediante contenedores a las maquinas tostadoras 
+5.	En la maquina tostadora el cacahuate se expone al calor por aproximadamente 1 hora y 45 minutos para lograr el dorado deseado, la temperatura que se aplicara depende de la humedad del cacahuate.
+6.	El cacahuate tostado es transportado mediante contenedores a otro bowl
+7.	En el bowl los cacahuates tostados vuelven a ser girados y se les incorpora la salsa de soya durante 3 minutos
+8.	Los cacahuates son transportados a una mesa cajón para dejarlos enfriar y secar
+9.	Los cacahuates ya secos son transportados mediante contenedores a la maquina empacadora, donde se vacían en un embudo y la maquina los envasa en bolsas plásticas azules de presentación de 40 gramos. 
+10.	 Las bolsas individuales se reúnen y son empacados en bolsas plásticas trasparentes donde se les agrega la salsa de sobre de acuerdo a la cantidad de bolsas de cacahuates empacadas
+11.	 Los empaques son transportados por el empleado al almacén de producto terminado
+
+Diagrama General de la Empresa “Ricos Fritos”                                          Cacahuate enchilado
+
+
+
+
+
+Proceso productivo cacahuate enchilado
+
+1.	El cacahuate se coloca en la freidora para ser freído
+2.	El cacahuate se filtra mediante un colador para quitar el aceite excesivo y dejarlo secar
+3.	El cacahuate frito es transportado mediante contenedores a un bowl
+4.	El cacahuate es girado en el bowl donde se le agrega chile molido y sal
+5.	El cacahuate se lleva mediante contenedores a una mesa cajón para dejarlo enfriar
+6.	El cacahuate es transportado mediante contenedores a la maquina empacadora, donde se coloca en un embudo y la maquina lo envasa en bolsas plásticas de presentación de 1 kilogramo.
+7.	Las bolsas individuales se reúnen y son empacados en bolsas plásticas trasparentes donde se juntan de acuerdo a la cantidad determinada
+8.	Los empaques son transportados por el empleado al almacén de producto terminado
+
+
+Detección de áreas de oportunidad
+
+ASPECTOS FAVORABLES
+Empezando con el recorrido a la empresa se puede apreciar la materia prima, comenzando con el cacahuate, esta se encuentra en una zona donde los camiones pueden acceder fácilmente y descargar la materia sin mayor complicación, en esta zona también se encuentran las salsas en sobres que se colocaran a los cacahuates y harina. Los proveedores de cacahuate provienen de Estados Unidos, Nicaragua, Oaxaca y Puebla, por lo tanto esta área está claramente definida y no hay nada que modificar ya que es la calidad que ellos requieren, cumple con las características que piden y los costos ya están acordados. 
+   La preparación de los diferentes cacahuates está dividido en áreas, que son los japoneses y los cacahuates con chile. Esto está bien planificado puesto se mantienen separados los procesos con su respectiva maquinaria, y pese a que su preparación es similar se evita que se combinen los sabores, así como  colocar ingredientes que no correspondan en la preparación. Su almacenamiento temporal también es por tipo de preparación de cacahuate al igual que su empaquetado (de acuerdo a la presentación que se requiere)
+  Hay una parte importante que a veces no se llega a considerar en la empresa, pero que en este caso está incluida, la cual es el área para los trabajadores. Localizada dentro de la fábrica como una pequeña casa de dos pisos, la cual cuenta con cocina, cuartos, sala y sanitarios, puesto las horas de trabajo varían dependiendo de la demanda, así como los horarios de salida y entrada, por lo cual es conveniente contar con ella. Los empleados realizan todas sus comidas en dicha casa, por lo que es de fácil acceso reduciendo los tiempos y teniendo un área de trabajo cómoda y practica por los trabajadores.
+  Concluyendo pasaremos a la limpieza de la empresa. Donde a simple vista se notó limpieza en áreas comunes como son los pisos y sanitarios, donde las tareas son repartidas entre los trabajadores por semana. En cuanto a la cocina cada empleado limpia lo que utiliza y lo coloca en su lugar correspondiente, cosa que se pudo comprobar en varias ocasiones. La limpieza de la maquinaria se hace posterior a terminar cualquier tarea con materiales de limpieza requeridos, sin usar alguno tóxico. Con esto se asegura que no se acumule la suciedad y desechos de la maquinaria, con esto se tiene la total confianza que la elaboración del producto no contiene desechos y es higiénico su proceso.
+
+AREAS DE OPORTUNIDAD
+Las áreas de oportunidad fueron más difíciles de encontrar debido a que ya cuentan con un sistema establecido, pero adentrándonos más en la empresa se pudo localizar que hay muchas zonas donde se acumulan diversas cosas, cosas que realmente no tienen alguna función específica o utilidad. Como son bolsas viejas, botes, basura, etc. Lo que nos lleva a encontrar un área de oportunidad la cual es la organización, en el sentido de la disposición de ciertos objetos, y esto ocurre, nos dicen, porque en esa zona no hay tanto flujo de movimientos y por lo tanto no se le presta demasiada atención. Y corrigiendo esta situación, se puede conseguir mucho más espacio ya sea para la disposición de cosas de verdad útiles o para el flujo de trabajadores como de materia.
+   Continuando con el tema de la organización, es favorable que se establezca un almacén donde ahí se colocaran objetos/herramientas de acuerdo al periodo de tiempo que se utilicen. Puesto hay objetos o herramientas que se utilizan periódicamente y el tiempo restante solo se colocan en lugares al azar, donde llegan a estorbar o a entorpecer procesos.
+   Un aspecto más que logramos detectar, fue la limpieza y aunque en áreas comunes y maquinas que se utilizan diariamente es muy frecuente, en las zonas menos transitadas o que no  se utilizan, la limpieza es nula. Y si bien no entorpece los procesos a la larga puede traer problemas de higiene, por lo que es favorable establecer un sistema de limpieza para aquellas zonas, donde no es necesario se diario pero si periódico.
+  Con el punto anterior mencionado se desglosa un problema más, el cual es la falta de revisión periódica de las máquinas, con el fin de prevenir o corregir posibles fallas. Ya que, como se ha mencionado, la mayoría de los procesos son automatizados y es necesario que se les de mantenimiento, sino en el momento que lleguen a descomponerse el flujo de la empresa quedara detenido, provocando pérdidas, así como costos excesivos de los encargados de reparar dichas maquinas.
+
+ANALISIS FODA
+
+Área de oportunidad: Organización de la empresa (respecto a maquinaria, objetos, herramientas)
+
+
+FORTALEZAS
+
+DEBILIDADES
+
+
+*La maquinaria utilizada dentro de la empresa está correctamente distribuida.
+* Las áreas para los procesos automatizados están despejadas.
+*La colocación de la materia prima está en un lugar favorable para descargarla.
+*El flujo de materiales y de trabajadores está definido y se mantiene en orden.
+* La disposición de materiales pequeños, que se usan periódicamente, están regados  por varias zonas de la empresa
+* En áreas donde no hay mucho movimiento se acumula variedad de cosas, que no se puede definir si son útiles o no.
+*No se cuenta con un almacén para guardar objetos variados que se usan de vez en cuando.
+*Entorpecimiento de las actividades al no encontrar las herramientas que se necesitan inmediatamente, estorbar en otras actividades o inclusive causar accidentes.
+
+OPORTUNIDADES
+
+AMENAZAS
+
+
+*Preferencia del consumidor, lo que quiere decir ingresos para la empresa 
+*Financiamiento favorable por parte de proveedores de anaqueles y muebles para la organización.
+
+
+
+*En las revisiones futuras de supervisores a la empresa esta situación podría interpretarse como una falta de organización e inclusive falta a la seguridad.
+
+ESTRATEGIA PROPUESTA
+
+La estrategia a efectuar se centrara basándose en las debilidades anteriormente mencionadas.  
+  Para ello primero se necesita convencer al dueño de la empresa que se ha encontrado un área de oportunidad y en base a análisis demostrarle lo poco benéfico que resulta para el desarrollo de su empresa.
+   Posteriormente de haber obtenido la aprobación del dueño, se elabora el plan, que consistirá en:
+1.- Colocar almacenes para los objetos/herramientas que se utilicen periódicamente: para esto se deberá elegir primero que tipo de almacén conviene establecer en la empresa.  Después conocer el periodo de tiempo en el que se utilizan los objetos/herramientas y esto se logra con ayuda de los trabajadores que son los expertos en el tema.
+2.-  Ordenar los objetos, en el almacén, por la frecuencia de tiempo que se utilicen: como se mencionó en el anterior punto se debe recabar la información para ordenarlos de acuerdo al periodo de tiempo en el que se les da uso. 
+3.- En cuanto a los objetos que se usan diariamente y que sean pequeños, se deberán colocar en un lugar específico que se deberá respetar, con esta acción se podrá localizar y acceder fácilmente para la utilización de dicho objeto.
+4.- Desocupar áreas donde halla acumulación de objetos o herramientas: definiendo primero si son útiles y con ello almacenarlas de acuerdo al periodo con que se usan, o si son innecesarias deshacerse de ellas.
+5.- Informar al personal de los cambios y mejoras: todas estas acciones no serían posibles sin la cooperación de los trabajadores, por tal motivos se les concientizara acerca de lo benéfico que resultara para ellos puesto evitara posibles accidentes, facilitara la localización de objetos que se necesitan y permitirá un mejor flujo para la realización de tareas, siempre y cuando respeten y mantengan las mejoras.
+6.- Supervisar periódicamente el plan: una vez informado al personal se requerirá supervisar que en efecto se lleven a cabo las acciones que se señalaron. Para ello periódicamente se elegirá a un supervisor, que será rotado con sus demás compañeros, que llenara un formato para verificar se cumpla.
+7.-  Resultados: si en efecto el plan resulto positivo se verán fácilmente los resultados con la agilización de actividades y una mayor seguridad, en caso que sea negativo el cambio deberá modificarse para obtener mejoras.
+
+
+¿PROCESOS DE LA EMPRESA RICOS FRITOS?
+
+Los procesos que he observados en la empresa ricos fritos son básicamente los siguientes:
+
+•	Proceso del pelado de cacahuate.
+•	Proceso de tostado del cacahuate.
+•	Proceso de recubrir un cacahuate con  harina para el cacahuate estilo japonés.
+•	Proceso de recubrir el cacahuate con soya para el cacahuate estilo japonés.
+•	Proceso de empaquetado del cacahuate salado.
+•	Proceso de empaquetado del cacahuate estilo japonés.
+
+
+¿LO QUÉ HACEN MUY BIEN?
+
+Principalmente es una empresa comprometida con sus trabajadores, pues el fundador de la empresa, no es un simple jefe si no un líder y trata de motivar a sus trabajadores, involucrándose en sus vidas, conociéndolos como persona, compartiéndoles sus experiencias, y apoyándolos en lo que el puede; en sus palabras “Aquí trabajo para todos”. Debido a que fue pobre y tuvo que salir adelante, su sufrimiento se convierte en empatía hacia sus empleados, motivándolos, a hacer mejor su trabajo, obteniendo un producto final mejor que deseable.
+
+
+
+¿EN DÓNDE HAY ÁREAS DE OPORTUNIDAD?
+
+Yo veo un área de oportunidad en la PUBLICIDAD puesto que su marca “Ricos Fritos” no es muy conocida. Principalmente en medios DIGITALES. Pues al tratar de recabar información de la empresa, a través de la red, no hay información que nos arroje algo sobre ésta. Debido a que estamos en la era de la información es vital que:
+*Tenga una PÁGINA WEB.
+*Mantenga contacto con sus clientes a través de REDES SOCIALES.
+Principalmente las dos anteriores mencionadas, pero se podría hacer una APLICACIÓN MOVIL, un sistema con una BASE DE DATOS para su nómina y contabilidad, etc.
+La principal oportunidad que puedo observar es que se puede mudar fácilmente y con un gran impacto al mundo digital y porque no, apoyado de estos expandirse a un mercado global con un mayor impacto en su marca.
+
+
+Análisis FODA Creación de una Página Web.
+
+Fortalezas
+Debilidades
+
+1.- Se cuenta con información necesaria para crear una página WEB como: historia de la empresa, misión, visión.
+
+2.- Una vez establecida, el mantenimiento es barato, y el impacto es sobresaliente.
+
+1.- Tendría que mantener actualizada la información de contacto, que se despliegue en la página.
+
+2.- Pagar por el nombre del hosting aproximadamente mil pesos mexicanos al año.
+
+Oportunidades
+Amenazas
+
+1.- Al crear una página Web, podría tener un mayor impacto a sus clientes ya que estos sin necesidad de ir a la empresa podrían consultar su: misión, visión, valores, realizar una cita o inclusive hacer pedidos online.
+
+2.- Se publicita a través de internet.
+
+1.- Que el dueño y los trabajadores logren incorporarse a un modelo digital en vez de uno tradicional, lo puede llegar a incluir capacitación.
+
+2.- Cuando se busque una actualización de la página ser dependiente del desarrollador de la misma.
+
+3.- Pagar a tiempo el nombre del hosting, puesto que otra empresa puede hacer uso del mismo.
+
+Estrategias.
+
+1.- Preparar un programa de capacitación en caso de dudas sobre como usar la página WEB para publicidad o hacer pedidos.
+
+
+OBSERVACIÓN A LA EMPRESA “CACAHUATERA RICOS FRITOS”
+Las observaciones que yo puedo hacer a esta empresa nombrada cacahuatera ricos fritos son positivas ya que desde el primer dia que contactamos esta empresa, el dueño fue una persona muy accesible ya que nos brindó todo tipo de ayuda posible para poder realizar nuestro proyecto, desde el acceso a las instalaciones, la interacción con los distintos empleados dentro de esta cacahuatera, acceso a toda la información necesaria para el cumplimiento de todas las actividades solicitadas en clase, la hospitalidad brindada por parte del equipo de trabajo etc. Esta empresa no brinda todo lo necesario para poder avanzar en nuestro proyecto.
+PRODUCCION
+Esta producción no está sistematizada, esta es una gran área de oportunidad ya que en ningún momento pude notar que estén trabajando bajo ninguna restricción de tiempo, descansos uso de kanban o alguna otra herramienta dentro del control de calidad. La distribución de su maquinaria es buena, pero con un enfoque correcto se pueden mejorar las condiciones dentro de este espacio de trabajo. La implementación de 5s ara una gran diferencia dentro de esta empresa y será la base para iniciar con este proyecto.
+INVENTARIOS
+Otra área de oportunidad dentro de cacahuatera ricos fritos es el uso de inventarios ya que implementar una mejora en los inventarios podrá reducir un gran porcentaje sus almacenes ya el área designada y esto conlleva a reducir gastos.
+MANTENIMIENTO
+El mantenimiento de las maquinas es un proceso obligatorio en todas las industrias ya que es fundamental para la elaboración de nuestro producto no se ha dedicado tiempo para la inspección de las mismas, pero está planeado hacer una inspección a cada una de las maquinas que con las que cuenta esta empresa para asegurarnos de que todas y cada una de ellas cumplan satisfactoriamente con su tarea y poder medir el rendimiento de cada una de estas para asegurarnos que cumplan con todas las funciones esperadas y de que no sean maquinas obsoletas que lo único que nos generan son gastos innecesarios.
+
+ORDEN
+Dentro de la empresa una de las áreas de oportunidad más evidentes es el orden, esta empresa carece de disciplina ya que el personal no contribuye en esta parte, a pesar de que existe comunicación en las áreas, la dirección general no se encuentra lo suficientemente involucrada.
+PERSONAL
+Ricos fritos cuenta con personal muy poco confiable, este es un problema muy grave ya que el mismo personal hace desvíos de efectivo el cual se ve afectado en los costos de producción y área de finanzas.
+PROPUESTA DE MEJORA
+METODOLOGIA 5´S
+Es una metodología / filosofía para organizar el trabajo de una manera que minimice el desperdicio, asegurando que las zonas de trabajo estén sistemáticamente limpias y organizadas, mejorando la productividad, la seguridad y proveyendo las bases para la implementación de procesos esbeltos.
+Las 5S han tenido una amplia difusión y son numerosas las organizaciones de diversa índole que lo utilizan, tales como: empresas industriales, empresas de servicios, hospitales, centros educativos o asociaciones.
+Se inició en Toyota en los años 1960 con el objetivo de lograr lugares de trabajo mejor organizados, más ordenados y más limpios de forma permanente para lograr una mayor productividad y un mejor entorno laboral.
+Aunque las 5S son de origen Japonés, los fonemas inician cada una de las palabras suenen como un S, de ahí el nombre de las 5S.
+1S Seiri – 整理 (Clasificar)
+Significa retirar el lugar de trabajo todos los elementos que no son inútiles para las operaciones de producción de un producto o la prestación de un servicio.
+Generalmente las personas se rodean de objetos innecesarios  (Herramienta, maquinas, equipos,  partes, documentos etc.) que creen que serán útiles algún día,  de esta manera los objetos tienden a acumularse y estorbar en las actividades que agregan valor esto multiplicado por cada estación de trabajo genera una masiva acumulación de desperdicios (muda)  que agregan costos al proceso productivo.
+2S 整頓, Seiton (ordenar)
+Una vez retirado de los puestos de trabajo los elementos inútiles se deben ordenar los útiles, es darles un lugar determinado a cada cosa, ubicar los elementos en el lugar asignado e identificado, esto con el fin de que las herramientas, equipos o elementos necesarios puedan ser encontrados fácilmente por quien los necesite. Esto ahorra tiempos de búsqueda, movimientos innecesarios, evita problemas de calidad y condiciones inseguras, el orden puede practicarse en paralelo con la primera S (Clasificar).
+3S 清掃, Seisō (Limpiar)
+Consiste en identificar y eliminar las fuentes de suciedad, asegurando que los puestos de trabajo se encuentren siempre en perfecto estado de modo que cuando alguien necesite utilizar algo esté listo para su uso.
+ Cuando limpiamos un área es inevitable hacer alguna inspección esto puede evitar grandes problemas en los equipos
+ •Tipos de problemas:
+•Los entornos de trabajo sucios afectan la autoestima.
+•Los residuos de procesos pueden generar daños o productos defectuosos.
+•Las maquinas no reciben suficientes chequeos.
+•La presencia de líquidos en el piso pueden generar accidentes.
+4S 清潔, Seiketsu (estandarización)
+Difiere de las 3 primeras ya que son actividades la cuarta S es un estado que existe cuando se mantienen las 3 primeras (Clasificación, orden y limpieza).
+El propósito básico de la estandarización es evitar el retroceso en las  3 primeras Ss hacer de su ejecución un habito diario.
+5S 躾, Shitsuke  (Disiplina)
+Es diferente a las 4 primeras Ss en el sentido de que no es visible y no puede medirse.
+Existe en las mentes y voluntades de los empleados y solo su conducta muestra su presencia, como consecuencia no se puede implantar como una técnica.
+
+
+
+FORTALEZAS (que tengo)
+DEBILIDADES (que me falta)
+ORGANIZAR
+Personal capacitado multifuncional
+Archivos organizados en el equipo de computo
+Realización del trabajo adecuado.
+Se cubren las necesidades del cliente
+Áreas de trabajo combinadas.
+Poco personal para área financiera
+Más y mejores señaléticas
+ORDENAR
+Existe material de trabajo necesario
+Archivos ordenados
+Información respaldada y mejor alcance.
+Gran ambiente laboral
+Material de trabajo disperso.
+Cajas en pasillos
+Almacén y área de producción no están separados.
+
+LIMPIEZA
+Todo el personal cuenta con las habilidades necesarias para hacer limpieza
+Personal carece de disciplina.
+ESTANDARIZAR
+El personal de cada área es competente para llevar a cabo su trabajo.
+Reducción de gastos.
+Recursos humanos sin capacitación.
+El personal desconoce la descripción de puestos.
+Evaluación del personal antes de ser contratado
+DISIPLINA
+El dueño está comprometido a su trabajo y es muy flexible a cambies dentro de la empresa.
+Puntualidad
+Mayor capacitación al personal.
+Recursos humanos con alta resistencia al cambio
+
+
+
+
+OPORTUNIDADES
+AMENAZAS
+ORGANIZAR
+Áreas adecuadas a las necesidades de los trabajadores
+Obtención de mobiliario y equipo de oficina
+Duplicidad de información
+ORDENAR
+Áreas despejadas
+Espacios nuevos 
+
+Perdida de información
+LIMPIEZA
+Oficinas limpias
+Áreas de trabajo despejadas
+Mejor control en producción
+Perdida de interés por parte del personal.
+Horarios laborales insuficientes.
+ESTANDARIZAR
+Capacitación constante a cada uno del personal involucrado en producción.
+Capacitación constante al dueño de la empresa.
+Recursos humanos con poco compromiso al cambio.
+
+DISIPLINA
+Procesos estandarizados
+Tiempos de respuesta más cortos.
+Insatisfacción en el ambiente laboral.
+Personal rebelde.
+
+
+LEAN SOLUTIONS SAS (2016) Metodología 5s. Recuperado de: http://www.leansolutions.co/conceptos/metodologia-5s/
+
+
+Procesos de la empresa “Ricos Fritos”.
+Lo que hace muy bien.
+La empresa Ricos Fritos tiene un extraordinario proceso de producción, ya que produce hasta 30 toneladas de cacahuate japonés al mes, esto requiere un sistema de automatización estupendo. Sus máquinas pueden sellar hasta 1 tonelada por hora, lo cual es muy eficiente. 
+La limpieza de la empresa en general es buena, ya que se utilizan protecciones como cubre bocas y retenedor de cabello, además que el lugar está muy limpio y aseado.
+Área de oportunidad.
+Una de las áreas de oportunidad que observe. Es que el señor Alfredo Rojas, dueño de la empresa, mezcla 3 tipos de cacahuate importados de diferentes procedencias; uno proviene de Guatemala, otro proviene de los Estados Unidos y otro proviene del estado de Oaxaca, información obtenida del señor Alfredo.
+
+Otra área de oportunidad sería la implementación de un sistema de seguridad e higiene de los empleados, esto es, utilización de fajas para cargar cosas pesadas, protección para la cabeza y protección auditiva por los molinos que se utilizan. Por lado de la higiene, los empleados no utilizan uniforme, visten de ropa usual, ni guantes para tocar el producto, lo único que utilizan es su red atrapa cabellos. 
+
+En el tiempo que me encontré en la empresa, no pude notar claramente un sistema de almacenaje o de inventario por parte de la empresa, entonces esa podría ser un área de oportunidad, ya que si no se tiene controlada, la cantidad de materias prima que entra y la que sale, puede existir un robo hormiga por parte de los empleados o perdidas por falta de administración. 
+
+Análisis FODA
+
+Fortalezas
+Debilidades
+
+F1- Se aumenta la calidad del producto.
+F2- Las características del sabor y del tamaño del producto.
+F3- Aumento de ventas.
+
+ 
+D1- Aumento en los costos de adquisición.
+D2- Mala situación financiera
+D3- Menor producción con el mismo presupuesto
+Oportunidades
+Amenazas
+
+O1- Alta demanda del producto
+O2- Tendencia a la reducción de costos de la materia prima.
+
+Permanentes
+A-  Agresividad por parte de la competencia.
+A – Ambientes climáticos desfavorables para la cosecha de producto. 
+Circunstanciales 
+A1- Lapso de tiempo en el que se va a recuperar la inversión.
+A2- Carencia de producto para satisfacer las demandas
+
+
+
+
+Fortalezas 
+Esta propuesta está basada en el hecho de ofrecer mejor calidad de producto al cliente, y un prestigio a la empresa, ya que puede argumentar que se utiliza solo cacahuate de la mejor calidad y en un tiempo determinado utilizar este argumento para aumentar un poco el precio y reponer las perdidas por eliminar el cacahuate de baja calidad.
+Oportunidades
+La ventaja de eliminar el cacahuate de mala calidad implica que el producto al ser de mejor calidad, pueda hacer competencia con los grandes vendedores de cacahuate en Puebla. 
+Se podría abrir un nuevo panorama, surtiendo botana a diferentes misceláneas, centros comerciales, bodegas y demás, garantizando calidad en el producto que se ofrece, ya que se tiene una alta demanda de producto.
+
+Debilidades
+Si se elimina la compra de cacahuate de mala calidad, se tendrá que comprar menos producto por la misma cantidad de dinero, y fabricar menos cacahuate con menos ganancias.
+La situación económica que vive el país nos da un futuro incierto en cuanto al costo de la materia prima.
+
+Amenazas
+El aumento del precio de esta botana podría orillar a algunos clientes a cambiar de proveedor, ya que si se elevan los precios los clientes tendrán que buscar alguno más barato que ofrezca las mismas características.
+Se realizará una inversión considerable en nuevos cacahuates y un nuevo panorama de ventas, si no se maneja un buen marketing, el cambio podría ser no tan benéfico como se espera
+
+MATCH
+
+En base a las áreas de oportunidad observadas por cada miembro del equipo, y presentadas previamente en la investigación, se decidió selecionar aquellas que fueran mas esenciales a consideración del empresario para la mejora del funcionamento de la empresa, así como las mas factibles para mejorar. Las áreas oportunidad fueron ubicadas en 3 áreas de la empresa: Limpieza y Organización, Ventas y Finanzas.
+
+*Limpieza y Organización: en esta área se detecto la falta de organización de herramientas y objetos pequeños, puesto se encuentran dispersos en diversos lugares sin orden.
+*Ventas: en esta área se encontró la ausencia de cualquier tipo de publicidad para la empresa .
+*Finanzas: en esta área se encontró la existencia de perdidas a la empresa (dinero en efectivo y produto) por parte de los trabajadores.
+
+1.- Área de la empresa: Limpieza y Organización                                                                           Área de oportunidad: Organización de la empresa (respecto a objetos, herramientas)
+
+
+ANALISIS FODA
+
+FORTALEZAS
+
+DEBILIDADES
+
+
+*La maquinaria utilizada dentro de la empresa está correctamente distribuida.
+* Las áreas para los procesos automatizados están despejadas.
+*La colocación de la materia prima está en un lugar favorable para descargarla.
+*El flujo de materiales y de trabajadores está definido y se mantiene en orden.
+* La disposición de materiales pequeños, que se usan periódicamente, están regados  por varias zonas de la empresa
+* En áreas donde no hay mucho movimiento se acumula variedad de cosas, que no se puede definir si son útiles o no.
+*Entorpecimiento de las actividades al no encontrar las herramientas que se necesitan inmediatamente, estorbar en otras actividades o inclusive causar accidentes.
+
+OPORTUNIDADES
+
+AMENAZAS
+
+
+*Preferencia del consumidor, lo que quiere decir ingresos para la empresa 
+*Espacio disponible para utilizar
+
+
+
+*En las revisiones futuras de supervisores a la empresa esta situación podría interpretarse como una falta de organización e inclusive falta a la seguridad.
+
+
+
+
+
+
+
+
+
+2.- Área de la empresa: Ventas                                                                                                          Área de oportunidad: Publicidad para la empresa
+
+
+ANALISIS FODA
+
+FORTALEZAS
+
+DEBILIDADES
+
+*Se cuenta con una cantidad favorable de clientes
+* Los clientes siguen prefiriendo el producto
+*La calidad del producto es capaz de competir con la competencia
+*La marca posee un logo para su venta
+*El producto se vende en diferentes Estados de la Republica.
+
+* Los clientes son buscados individualmente para ofrecer el producto
+* Actualmente, ya no se buscan nuevos clientes
+*No se tiene publicidad de la empresa en ningún medio
+*La competencia tiene publicidad y es más conocida
+*El empresario prefiere solo los tratos en persona
+
+OPORTUNIDADES
+
+AMENAZAS
+
+
+*Se puede llegar a grandes  cantidades de gente en un solo día
+*La marca se puede volver más popular
+*Los clientes buscarían a la empresa
+* Las ventas aumentarían por la demanda
+
+
+*La publicidad puede resultar un poco costosa para pequeñas y medianas empresas
+*Puede que la publicidad no se dirija al sector correcto
+*No se tiene certeza de cuanta gente mirara la publicidad
+*La publicidad no asegura que compraran
+
+
+3.- Área de la empresa: Finanzas                                                                                                          Perdidas/hurto en la empresa (producto y efectivo)
+
+
+ANALISIS FODA
+
+FORTALEZAS
+
+DEBILIDADES
+
+
+*La empresa posee un capital estable que le permite seguir funcionando 
+* Las ganancias aumentan considerablemente a finales de año
+*El empresario realiza varias funciones de la empresa, se involucra en todas las áreas
+*Se entregan notas al cliente una vez entregado el producto
+
+* El empresario no tiene apoyo en la realización de sus diversas actividades
+* No hay inventarios 
+*No hay vigilancia en el almacén de cacahuate
+*El empresario solo trabaja con dinero en efectivo
+*Hay perdidas de cantidades de efectivo
+*El producto es retirado por ciertos trabajadores para su propio lucro.
+
+
+OPORTUNIDADES
+
+AMENAZAS
+
+*Implementación de control de inventario intensivo
+*Disminución de pérdidas a la empresa 
+*Reducción de costos debido al control de la empresa y sus procesos
+*Control entrada y salida del personal
+*Identificación de empleados deshonestos
+
+
+
+*Las perdidas constantes afectaran considerablemente el capital del negocio
+*Las cantidades de perdidas/hurtos pueden seguir aumentando
+*El negocio puede llegar a la quiebra
+
+
+Conclusiones 
+Analizando cada uno de los FODA podemos concluir que 
+El mapeo de un sistema es una espectacular herramienta para detectar áreas de oportunidad en una empresa, esta herramienta nos resultó de muy buena ayuda, ya que pudimos mapear las áreas de oportunidad de una manera fácil y proponer un plan de acción para convertir esa área de oportunidad en un beneficio para la empresa.
+De acuerdo a nuestros análisis para la tercera área de oportunidad instaurar un sistema de inventario de nivel intermedio, para tener un control sobre el producto, ya que ha habido mermas en la fábrica por parte de los operadores. Además de un sistema básico de tickets, ya que cuando el empresario manda a cobrar a alguno de sus trabajadores, en algunas ocasiones se le ha perdido el dinero, así que esta técnica le ayudaría a proteger mejor su dinero.
+Con la implementación de nuestras propuestas de mejora esperamos que se disminuyan considerablemente las mermas que existen en la empresa, al igual que, se eliminen o se reduzcan al máximo las pérdidas de dinero en efectivo para que la empresa siga rindiendo excelentes frutos.
+Se están cumpliendo los objetivos de este proyecto ya que aplicamos la teoría general de sistemas para corregir las áreas de oportunidad que se encontraron a lo largo de las visitas que realizamos.
+Cumplimos lo establecido con el empresario, solo falta que nos de paso a la implementación de nuestras propuestas de solución.
+
+Bibliografía
+
+Freedictionary. (2016) Recuperado de  http://es.thefreedictionary.com
+Portal del Empleo (2016), Invierte en un negocio, invierte en tu futuro. Recuperado de http://empleo.gob.mx/es_mx/empleo/Microempresas
+INEGI (2016). Encuesta mensual de la industria manufacturera. Recuperado de 	http://www.inegi.org.mx/prod_serv/contenidos/espanol/bvinegi/productos/encuestas/establecimientos/indus_manu/emin_scian/emin.pdf 
+INEGI. (2016). Industria Manufacturera. Recuperado de http://cuentame.inegi.org.mx/economia/secundario/manufacturera/default.aspx?tema=E
+INEGI (2016) Economía de México. Recuperado de http://cuentame.inegi.org.mx/economia/default.aspx?tema=E
+Issitt, M. (2015). General Systems Theory. Salem Press Encyclopedia.
+Jung, R. (2006). Teoría postmoderna de sistemas: una fase en la búsqueda de una teoría general de los sistemas. Estudios Sociológicos, (71). 451.
+Eligio Esquívez González. (2009). El cacahuate., de El economista Recuperado de  http://eleconomista.com.mx/columnas/termometro-financiero/2011/12/27/cacahuate
+
