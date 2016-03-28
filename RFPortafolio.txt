@@ -6,6 +6,7 @@ Portafolio de Entrega del Proyecto para la empresa Ricos Fritos.
 Índice
 Portafolio de Entrega del Proyecto para la empresa Ricos Fritos.	1
 Agradecimientos	2
+Marco Teórico
 Introducción	4
 Justificación	5
 Antecedentes Generales	6
@@ -16,26 +17,48 @@ Detección de áreas de oportunidad	12
 Bibliografía	29
 
 
+MARCO TEÓRICO
+*FODA: Fortalezas y Oportunidades, Debilidades, Amenazas, es una herramienta de análisis que puede ser aplicada a cualquier situación, individuo, producto, empresa, etc, que esté actuando como objeto de estudio en un momento determinado del tiempo.
+*Sistema: Conjunto De Partes O Elementos Organizadas Y Relacionadas Que Interactúan Entre Sí Para Lograr Un Objetivo.
+*Supra: Es el sistema que integra a los sistemas desde el punto de vista de pertenencia
+*Subsistema: Es un conjunto de partes e interrelaciones que se encuentran estructuralmente y funcionalmente, dentro de un sistema mayor.
+*Teoria General de Sistemas: estudio interdisciplinario de los sistemas, en general, con el propósito de dilucidar los principios que pueden ser aplicados a todo tipo de sistemas en todos los niveles anidados en todos los campos de la investigación.
+*Consultoria: Entidad dedicada a asesorar empresas en asuntos de diversas áreas como: el marketing, la organización, la fiscalidad.
+*Sector secundario: sector de la economía que transforma la materia prima, extraída o producida por el sector primario, en productos de consumo.
 
-Introducción 
+INTRODUCCIÓN 
 
-Dentro de la industria de las botanas los cacahuates se han posicionado como un producto de gran consumo popular. Su demanda se debe principalmente a su fácil acceso, es decir, se puede encontrar en diversos puntos de venta, su precio es bajo y satisface de manera inmediata una necesidad o antojo.
-Cacahuatera RICOS FRITOS. Está ubicada en la colonia San Cristóbal Tulcingo en la capital poblana actualmente tiene un camión de 20 toneladas y varias camionetas para repartir el producto, a lo largo de 50 años y se ha extendido por varios estados de la república mexicana como lo son el estado  de Veracruz, Acapulco y todo Puebla ofreciendo cacahuate japonés y enchilado. Cacahuatera Ricos fritos  cuenta con 6 operadores que desempeñan las tareas para la elaboración de los distintos tipos de cacahuates y próximamente cacahuates tipo hut-nuts. Inspiración de superación humana. Estas fueron algunas palabras del Señor Alfredo Rojas, propietario de la empresa Ricos Fritos, compartió en una entrevista realizada 
-Actualmente la empresa compite con empresas de gran talla como Barcel o Sabritas, está en un auge y el dueño espera que siga creciendo.
- Cacahuatera ricos fritos fue pionera en la producción en serie dentro del estado de puebla La empresa cuenta actualmente con maquinaria usada para el pelado y limpieza de los cacahuates, maquinaria especializada para el tostado y crear los cacahuates japoneses, y cuenta también con maquinaria para el empaquetado de su producto. Todo este proceso de producción en masa es realizado en una sola planta.
+Este documento presenta una consultoría realizada  a la empresa CACAHUATES RICOS FRITOS, con el objetivo de dar a conocer las áreas de oportunidad obtenidas tras el diagnóstico de: procesos, metodologías, protocolos, y la administración de los diferentes órganos de la empresa. Así como una planificación con medidas, estrategias y evaluación de opciones que contribuirán a la búsqueda del mejor desempeño de la misma.
+
+Teniendo en cuenta estos aspectos, cabe destacar que la técnica utilizada para la realización de este análisis tiene base en la Teoria General de Sistemas. Como más adelante se observa hacemos uso de: diagrama general de la empresa, diagramas de los diferentes sub-sistemas de la empresa, identificación de áreas de oportunidad mediante el uso de la observación, sondeo y entrevistas realizadas a personal en visitas periodicas a ésta, matrices FODA para cada área de oportunidad, así como una amplia comparación de éstas con las halladas en diversos artículos científicos pertenecientes al Área Económico Administrativa de editoriales como: SpringerLink, ThomsonReuthers, Cambridge Journals, etc. obtenidos del acervo bibliotecario de la Universidad de Puebla. Éstos y las herramientas anteriormente mencionadas se detallan a continuación.
+
+A posteriori se presenta una síntesis solida y concreta con puntos enriquecedores, unidos a los diferentes planes de acción propuestos.
+
+DESCRIPCIÓN DE LA EMPRESA
+
+La empresa se dedica a la fabricación y distribución de fritangas derivadas del cacahuate. A su vez a logrado posicionar sus productos en el preferido del consumo popular. Su numerosa demanda radica en su amplia distribución y fácil acceso al publico, con un precio inferior al de la competencia, satisface de manera inmediata el deleite a su antojo.
+
+Cacahuatera RICOS FRITOS está ubicada en la ciudad de Puebla, en la colonia San Cristóbal Tulcingo carretera federal a Tlaxcala, con una planta única. Actualmente cuenta con infraestructura solida, pues posee maquinaria de producción en serie para diversas tareas tales como: el pelado, limpieza, tostado de los cacahuates, así como, creación estilo japonés y el respectivo empaquetado del producto. Misma de la que se jacta de ser pionera. A su vez cuenta con: un tractocamion capaz de soportar una distribución de hasta 20 toneladas y 10 camionetas modelo Van usadas para repartir el producto.
+
+A lo largo de 50 años de producción ha logrado expandirse a través de diversos estados de la república mexicana tales como: Veracruz, Guerrero, Colima, Michoacan, Tlaxcala etc. contando con todo el estado de Puebla. 
+
+Cacahuatera Ricos fritos posee 10 operarios que desempeñan diversas tareas para la elaboración de sus productos: estilo japonés, cacahuates salados, enchilados. En breve se espera añadir el estilo HUT-NUTS. Con estos productos, su calidad, precio y buena distribución, le es posible competir directamente con empresas de gran talla como Barcel o Sabritas. 
+
+Hoy por hoy CACAHUATES RICOS FRITOS está en su auge y sigue creciendo.
+
 
 Justificación 
 
 La empresa RICOS FRITOS  elabora una amplia gama de productos de cacahuate, dentro de los que se encuentran: cacahuate salado, cacahuate enchilado y cacahuate estilo Japonés. En diversos tamaños y presentaciones. Perteneciendo al sector secundario de la industria de manufactura, actualmente distribuye a dulcerías y grandes abarrotes de la república mexicana. Nos ha brindado la oportunidad de hacer un estudio de consultoría, con el objetivo de encontrar áreas de oportunidad, prevenir o disminuir riesgos y poder mejorar sus procesos, estableciendo el análisis en la teoría general de sistemas.
 
 ◦	Descripción
-Actualmente la RICOS FRITOS por el volumen de su producción entra en la clasificación de PYME contando con métodos poco optimizados principalmente en la administración de sus diversas áreas como finanzas, ventas, marketing, contabilidad, dirección, logística, compras adquiriendo varios riesgos potenciales que podrían ser fácilmente optimizados. 
+Actualmente la RICOS FRITOS por el volumen de su producción entra en la clasificación de PYME contando con métodos ortodoxos principalmente en la administración de sus áreas como finanzas, ventas, marketing, contabilidad, dirección, logística, compras etc. adquiriendo riesgos potenciales que podrían ser asequible su optimización. 
 
 ◦	Objetivo General
-Para ofrecer un producto de buena calidad en el mercado, obteniendo mayores ganancias, con el menor coste requerido. Se propone implementar la consecuente planeación, basado en las áreas de oportunidad encontradas después de varios estudios, análisis, y minuciosas observaciones que se hallaron. Proponemos una vigorosa descripción de las áreas de oportunidad y su respectiva descripción del proyecto, para su pronta implementación.
+Para ofrecer un producto de buena calidad en el mercado, obteniendo mayores ganancias, con el menor coste requerido. Se propone implementar la consecuente planeación, basado en las áreas de oportunidad encontradas después de análisis, y minuciosas observaciones realizadas en la empresa. Se propone una vigorosa descripción de las áreas de oportunidad y su respectiva descripción del proyecto, para su pronta implementación.
 
 ◦	Objetivo Específico 
-Para mejorar la administración interna de los procesos en la fabricación de los diversos productos, mejorando la calidad y adquiriendo nuevas tecnologías en la gestión, optimización, distribución, dirección de la empresa. Como contar con apoyo de la banca en las transacciones de la empresa, contar con una señalética interna en la empresa, una correcta logística en la entrega de sus productos, publicidad y ventas auxiliado del uso de medios digitales, protocolos en la comunicación con sus empleados, entre otras.
+Para mejorar la administración interna de los procesos en la fabricación de los diversos productos, mejorando la calidad y adquiriendo nuevas tecnologías en la gestión, optimización, distribución, dirección de la empresa. Como contar con apoyo de la banca en las transacciones de la empresa, contar con una señalética interna en la empresa, una correcta logística en la entrega de sus productos, implementar el uso de medio digitales para publicidad y ventas, protocolos en la comunicación con sus empleados, entre otras.
 
 
 
